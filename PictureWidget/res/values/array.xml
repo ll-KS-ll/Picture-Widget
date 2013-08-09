@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subreddit_list">
+        <item>wallpapers</item>
+        <item>cityporn</item>
+        <item>earthporn</item>
+        <item>spaceporn</item>
+        <item>pics</item>
+        <item>foodporn</item>
+        <item>carporn</item>
+    </string-array>
+    
+</resources>
